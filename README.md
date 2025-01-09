@@ -1,5 +1,4 @@
-
-Authentication System with Forgot Password
+# Authentication System with Forgot Password
 
 This project implements a secure authentication system with user login, registration, forgot password, and reset password functionalities. The project uses React for the frontend and Node.js with Express for the backend.
 
